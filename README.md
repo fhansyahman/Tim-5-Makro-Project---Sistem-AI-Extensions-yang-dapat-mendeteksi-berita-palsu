@@ -2,9 +2,9 @@
 
 Link dataset
 
-Link kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data](https://www.kaggle.com/datasets/linkgish/indonesian-fact-and-hoax-political-news/data
+kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data](https://www.kaggle.com/datasets/linkgish/indonesian-fact-and-hoax-political-news/data
 
-Link kaggle: https://www.kaggle.com/datasets/vijayandika/hoax-news-indonesia
+kaggle: https://www.kaggle.com/datasets/vijayandika/hoax-news-indonesia
 
 ## Overview
 Project pembuatan AI berita hoax adalah upaya untuk mengembangkan sistem kecerdasan buatan yang dapat mengidentifikasi dan memeriksa berita palsu atau hoax secara otomatis. Tujuan utamanya adalah untuk membantu dalam memerangi penyebaran informasi yang tidak benar atau menyesatkan di media sosial dan platform online lainnya.
